@@ -1,0 +1,8 @@
+trigger:open
+undo_seq:0
+source_path:/home/cmpt201/personal/race_random/src/race_random.c
+cursor:1,1
+lines:43
+changedtick:2
+reg_size:4
+source_relpath:src/race_random.c
